@@ -2,7 +2,7 @@
 - 👀 I’m interested in application development.
 - 🌱 I’m currently learning Python Prgramming
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 You can reach out to me via my email: badetoro@hotmail.com
+- 📫 You can reach out to me via my twitter handle: @badetoro
 
 <!---
 badetoro-tech/badetoro-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
