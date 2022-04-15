@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bayo
 - 👀 I’m interested in application development.
-- 🌱 I’m currently learning Python Prgramming
+- 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach out to me via my twitter handle: @badetoro
 
